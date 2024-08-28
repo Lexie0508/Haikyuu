@@ -1,0 +1,154 @@
+h1 {
+    font-size: 55px;
+    background-color: #ff7b00	;
+    display: flex;
+    justify-content: center;
+}
+.Portada img{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+h2 {
+    font-size: 40px;
+    color: #ff7b00;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+h3 {
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h4 {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Fila1{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    color: #ff7b00;
+    justify-content:space-between;
+}
+.Cosa{
+    color: #303030	;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.Fila1 img{
+    border-radius: 10%;
+}
+.Fila2{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    color: #ff7b00;
+    justify-content:space-between;
+}
+.Fila2 img{
+    border-radius: 10%;
+}
+.Fila3{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    color: #ff7b00;
+    justify-content:space-between;
+}
+.Fila3 img{
+    border-radius: 10%;
+}
+.Cosa2{
+    color: #303030	;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.Fila4{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    color: #ff7b00;
+    justify-content:space-between;
+}
+.Fila4 img{
+    border-radius: 10%;
+}
+.Cosa3{
+    color: #303030	;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.Fila5{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    color: #ff7b00;
+    justify-content:space-between;
+}
+.Fila5 img{
+    border-radius: 10%;
+}
+.Aoba{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    color: #79c6c6	;
+    justify-content:center;
+}
+.Aoba img{
+    border-radius: 10%;
+}
+.Nekoma{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    color: #de3535	;
+    justify-content:center;
+}
+.Nekoma img{
+    border-radius: 10%;
+}
+.Dateko{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    color: #8ebab5		;
+    justify-content:center;
+}
+.Dateko img{
+    border-radius: 10%;
+}
+.Fukurodani{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    color: 	#d0b04f;
+    justify-content:center;
+}
+.Fukurodani img{
+    border-radius: 10%;
+}
+.Shiratorizawa{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    color: #ac217f;
+    justify-content:center;
+}
+.Shiratorizawa img{
+    border-radius: 10%;
+}
+.Inarizaki{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    color: 	#bb392b;
+    justify-content:center;
+}
+.Inarizaki img{
+    border-radius: 10%;
+}
